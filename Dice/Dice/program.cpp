@@ -33,14 +33,14 @@ int main()
 		else if (roll1 == 4) { fours++; }
 		else if (roll1 == 5) { fives++; }
 		else if (roll1 == 6) { sixes++; }
-		/*
+		
 		if (roll2 == 1) { ones++; }
 		else if (roll2 == 2) { twos++; }
 		else if (roll2 == 3) { threes++; }
 		else if (roll2 == 4) { fours++; }
 		else if (roll2 == 5) { fives++; }
 		else if (roll2 == 6) { sixes++; }
-		*/
+		
 	} // for
 
 	// print roll results
